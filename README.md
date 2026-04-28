@@ -2,6 +2,11 @@
 
 A smartphone-controlled, stationary vehicle system that replicates core driving interactions in a safe, controlled environment. It combines force sensors, embedded electronics, and mobile-based inputs to simulate steering, acceleration, braking, and signalling in real time.
 
+## Related Resources
+
+- 🚗 **Product Demo:** [Driving Simulation Demo](https://www.youtube.com/watch?v=GF5PHqHbHw8)
+- 🌐 **Product-Level Walkthrough:** [dmmkimani.com/simulated-driving-system](https://dmmkimani.com/projects/simulated-driving-system)
+
 ## Project Context
 
 This project was developed as part of a coursework module focused on interactive embedded systems and sensor-driven control architectures.
@@ -12,7 +17,18 @@ The objective was to recreate the core experience of driving in a controlled set
 
 ## System Overview
 
-The platform consists of a stationary, suspended three-wheeled prototype controlled via a smartphone application and embedded force sensors.
+The system consists of a stationary, suspended three-wheeled prototype controlled via a smartphone application and embedded force sensors.
+
+<p align="center">
+  <br>
+  <img src="assets/images/car.png" width="200" />
+  <img src="assets/images/pedals.png" width="200" />
+  <br>
+  <img src="assets/images/app.png" width="405" />
+  <br>
+  <br>
+  <em>(click to view full size)</em>
+</p>
 
 ## Interaction Model
 
